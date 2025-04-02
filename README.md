@@ -147,6 +147,3 @@ Feedstock Maintainers
 
 * [@jaimergp](https://github.com/jaimergp/)
 
-
-<!-- dummy commit to enable rerendering -->
-
