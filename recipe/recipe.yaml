@@ -1,5 +1,5 @@
 context:
-  version: 2.0.3
+  version: "2.0.4"
 
 package:
   name: evalidate
@@ -7,10 +7,10 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/e/evalidate/evalidate-${{ version }}.tar.gz
-    sha256: 5a18e1bd7427ccde2518bad90d7bcec07308a2346822ac094e8fcf8094b8fab8
+    sha256: adcdb08674dfa21fbf590ddc8cba5d21e35a21585e9ff487960a2035a2fbb8c4
 
 build:
-  number: 1
+  number: 0
   script: ${{ PYTHON }} -m pip install .
   noarch: python
 
