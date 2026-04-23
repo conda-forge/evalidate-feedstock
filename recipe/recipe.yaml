@@ -1,5 +1,5 @@
 context:
-  version: "2.0.5"
+  version: "2.1.0"
 
 package:
   name: evalidate
@@ -7,7 +7,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/e/evalidate/evalidate-${{ version }}.tar.gz
-    sha256: 247cae9e7539b69be07aa5e4970036bda4bb8df6f8515293bd2d1af8b8303e10
+    sha256: f46e12e5549c264438bbfd4f60a0b83ec0289bdca11a01b48a1c999f8c6fe5ce
 
 build:
   number: 0
